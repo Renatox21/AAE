@@ -93,7 +93,8 @@
             // 
             this.formulario2ToolStripMenuItem.Name = "formulario2ToolStripMenuItem";
             this.formulario2ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.formulario2ToolStripMenuItem.Text = "Formulario 2";
+            this.formulario2ToolStripMenuItem.Text = "Fuerza Bruta";
+            this.formulario2ToolStripMenuItem.Click += new System.EventHandler(this.formulario2ToolStripMenuItem_Click);
             // 
             // forToolStripMenuItem
             // 

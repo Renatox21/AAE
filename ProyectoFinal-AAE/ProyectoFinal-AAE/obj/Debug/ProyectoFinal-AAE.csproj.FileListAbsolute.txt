@@ -21,3 +21,15 @@ D:\UPN\Ciclo\AE\proyecto\AAE\ProyectoFinal-AAE\ProyectoFinal-AAE\obj\Debug\Proye
 D:\UPN\Ciclo\AE\proyecto\AAE\ProyectoFinal-AAE\ProyectoFinal-AAE\obj\Debug\ProyectoFinal-AAE.csproj.CoreCompileInputs.cache
 D:\UPN\Ciclo\AE\proyecto\AAE\ProyectoFinal-AAE\ProyectoFinal-AAE\obj\Debug\ProyectoFinal-AAE.exe
 D:\UPN\Ciclo\AE\proyecto\AAE\ProyectoFinal-AAE\ProyectoFinal-AAE\obj\Debug\ProyectoFinal-AAE.pdb
+C:\Users\Lenovo\source\repos\TrabjoFinalAlgorit\AAE\ProyectoFinal-AAE\ProyectoFinal-AAE\bin\Debug\ProyectoFinal-AAE.exe.config
+C:\Users\Lenovo\source\repos\TrabjoFinalAlgorit\AAE\ProyectoFinal-AAE\ProyectoFinal-AAE\bin\Debug\ProyectoFinal-AAE.exe
+C:\Users\Lenovo\source\repos\TrabjoFinalAlgorit\AAE\ProyectoFinal-AAE\ProyectoFinal-AAE\bin\Debug\ProyectoFinal-AAE.pdb
+C:\Users\Lenovo\source\repos\TrabjoFinalAlgorit\AAE\ProyectoFinal-AAE\ProyectoFinal-AAE\obj\Debug\ProyectoFinal-AAE.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\TrabjoFinalAlgorit\AAE\ProyectoFinal-AAE\ProyectoFinal-AAE\obj\Debug\ProyectoFinal_AAE.Form1.resources
+C:\Users\Lenovo\source\repos\TrabjoFinalAlgorit\AAE\ProyectoFinal-AAE\ProyectoFinal-AAE\obj\Debug\ProyectoFinal_AAE.FuerzaBruta.resources
+C:\Users\Lenovo\source\repos\TrabjoFinalAlgorit\AAE\ProyectoFinal-AAE\ProyectoFinal-AAE\obj\Debug\ProyectoFinal_AAE.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\TrabjoFinalAlgorit\AAE\ProyectoFinal-AAE\ProyectoFinal-AAE\obj\Debug\ProyectoFinal_AAE.Recursividad.resources
+C:\Users\Lenovo\source\repos\TrabjoFinalAlgorit\AAE\ProyectoFinal-AAE\ProyectoFinal-AAE\obj\Debug\ProyectoFinal-AAE.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\TrabjoFinalAlgorit\AAE\ProyectoFinal-AAE\ProyectoFinal-AAE\obj\Debug\ProyectoFinal-AAE.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\TrabjoFinalAlgorit\AAE\ProyectoFinal-AAE\ProyectoFinal-AAE\obj\Debug\ProyectoFinal-AAE.exe
+C:\Users\Lenovo\source\repos\TrabjoFinalAlgorit\AAE\ProyectoFinal-AAE\ProyectoFinal-AAE\obj\Debug\ProyectoFinal-AAE.pdb

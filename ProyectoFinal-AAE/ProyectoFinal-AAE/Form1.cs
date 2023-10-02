@@ -13,6 +13,7 @@ namespace ProyectoFinal_AAE
     public partial class Form1 : Form
     {
         Form recursividad = new Recursividad();
+        Form FuerzaBruta = new FuerzaBruta();
         public Form1()
         {
             InitializeComponent();
@@ -26,12 +27,18 @@ namespace ProyectoFinal_AAE
         private void recursividadToolStripMenuItem_Click(object sender, EventArgs e)
         {
             recursividad.Show();
-            // hijo2.Hide();
+            FuerzaBruta.Hide();
         }
 
         private void salirToolStripMenuItem_Click(object sender, EventArgs e)
         {
             Close();
+        }
+
+        private void formulario2ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            recursividad.Hide();
+            FuerzaBruta.Show();
         }
     }
 }
