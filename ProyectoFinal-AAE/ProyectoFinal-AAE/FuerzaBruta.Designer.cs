@@ -135,6 +135,7 @@
             this.Controls.Add(this.groupBox1);
             this.Name = "FuerzaBruta";
             this.Text = "FuerzaBruta";
+            this.Activated += new System.EventHandler(this.FuerzaBruta_Activated);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.ResumeLayout(false);

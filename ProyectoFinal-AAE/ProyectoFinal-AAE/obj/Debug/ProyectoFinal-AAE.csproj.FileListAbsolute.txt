@@ -33,3 +33,4 @@ C:\Users\Lenovo\source\repos\TrabjoFinalAlgorit\AAE\ProyectoFinal-AAE\ProyectoFi
 C:\Users\Lenovo\source\repos\TrabjoFinalAlgorit\AAE\ProyectoFinal-AAE\ProyectoFinal-AAE\obj\Debug\ProyectoFinal-AAE.csproj.CoreCompileInputs.cache
 C:\Users\Lenovo\source\repos\TrabjoFinalAlgorit\AAE\ProyectoFinal-AAE\ProyectoFinal-AAE\obj\Debug\ProyectoFinal-AAE.exe
 C:\Users\Lenovo\source\repos\TrabjoFinalAlgorit\AAE\ProyectoFinal-AAE\ProyectoFinal-AAE\obj\Debug\ProyectoFinal-AAE.pdb
+D:\UPN\Ciclo\AE\proyecto\AAE\ProyectoFinal-AAE\ProyectoFinal-AAE\obj\Debug\ProyectoFinal_AAE.FuerzaBruta.resources

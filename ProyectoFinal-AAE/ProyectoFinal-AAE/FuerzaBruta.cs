@@ -65,5 +65,11 @@ namespace ProyectoFinal_AAE
             numeros.Clear();
             txtResultado.Clear();
         }
+
+        private void FuerzaBruta_Activated(object sender, EventArgs e)
+        {
+            Left = 0;
+            Top = 0;
+        }
     }
 }
