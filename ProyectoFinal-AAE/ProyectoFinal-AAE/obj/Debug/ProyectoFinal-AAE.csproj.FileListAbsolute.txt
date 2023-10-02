@@ -9,3 +9,15 @@ D:\UPN\Ciclo\AE\proyecto\ProyectoFinal-AAE\ProyectoFinal-AAE\obj\Debug\ProyectoF
 D:\UPN\Ciclo\AE\proyecto\ProyectoFinal-AAE\ProyectoFinal-AAE\obj\Debug\ProyectoFinal-AAE.csproj.CoreCompileInputs.cache
 D:\UPN\Ciclo\AE\proyecto\ProyectoFinal-AAE\ProyectoFinal-AAE\obj\Debug\ProyectoFinal-AAE.exe
 D:\UPN\Ciclo\AE\proyecto\ProyectoFinal-AAE\ProyectoFinal-AAE\obj\Debug\ProyectoFinal-AAE.pdb
+D:\UPN\Ciclo\AE\proyecto\AAE\ProyectoFinal-AAE\ProyectoFinal-AAE\bin\Debug\ProyectoFinal-AAE.exe.config
+D:\UPN\Ciclo\AE\proyecto\AAE\ProyectoFinal-AAE\ProyectoFinal-AAE\bin\Debug\ProyectoFinal-AAE.exe
+D:\UPN\Ciclo\AE\proyecto\AAE\ProyectoFinal-AAE\ProyectoFinal-AAE\bin\Debug\ProyectoFinal-AAE.pdb
+D:\UPN\Ciclo\AE\proyecto\AAE\ProyectoFinal-AAE\ProyectoFinal-AAE\obj\Debug\ProyectoFinal-AAE.csproj.AssemblyReference.cache
+D:\UPN\Ciclo\AE\proyecto\AAE\ProyectoFinal-AAE\ProyectoFinal-AAE\obj\Debug\ProyectoFinal-AAE.csproj.SuggestedBindingRedirects.cache
+D:\UPN\Ciclo\AE\proyecto\AAE\ProyectoFinal-AAE\ProyectoFinal-AAE\obj\Debug\ProyectoFinal_AAE.Form1.resources
+D:\UPN\Ciclo\AE\proyecto\AAE\ProyectoFinal-AAE\ProyectoFinal-AAE\obj\Debug\ProyectoFinal_AAE.Properties.Resources.resources
+D:\UPN\Ciclo\AE\proyecto\AAE\ProyectoFinal-AAE\ProyectoFinal-AAE\obj\Debug\ProyectoFinal_AAE.Recursividad.resources
+D:\UPN\Ciclo\AE\proyecto\AAE\ProyectoFinal-AAE\ProyectoFinal-AAE\obj\Debug\ProyectoFinal-AAE.csproj.GenerateResource.cache
+D:\UPN\Ciclo\AE\proyecto\AAE\ProyectoFinal-AAE\ProyectoFinal-AAE\obj\Debug\ProyectoFinal-AAE.csproj.CoreCompileInputs.cache
+D:\UPN\Ciclo\AE\proyecto\AAE\ProyectoFinal-AAE\ProyectoFinal-AAE\obj\Debug\ProyectoFinal-AAE.exe
+D:\UPN\Ciclo\AE\proyecto\AAE\ProyectoFinal-AAE\ProyectoFinal-AAE\obj\Debug\ProyectoFinal-AAE.pdb
