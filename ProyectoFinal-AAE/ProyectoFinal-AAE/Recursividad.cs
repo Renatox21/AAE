@@ -50,7 +50,7 @@ namespace ProyectoFinal_AAE
         
         private void button1_Click(object sender, EventArgs e)
         {
-            
+            //boton agregar
             listBoxSalida.Items.Clear();
             List<int> num = new List<int>();
             Libro libro = new Libro();
