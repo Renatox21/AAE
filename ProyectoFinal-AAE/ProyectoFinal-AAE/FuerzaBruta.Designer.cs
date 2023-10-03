@@ -37,7 +37,10 @@
             this.btnAgregar = new System.Windows.Forms.Button();
             this.txtNumero = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
+            this.panel1 = new System.Windows.Forms.Panel();
+            this.label3 = new System.Windows.Forms.Label();
             this.groupBox1.SuspendLayout();
+            this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
             // groupBox1
@@ -50,18 +53,21 @@
             this.groupBox1.Controls.Add(this.btnAgregar);
             this.groupBox1.Controls.Add(this.txtNumero);
             this.groupBox1.Controls.Add(this.label1);
-            this.groupBox1.Location = new System.Drawing.Point(23, 12);
+            this.groupBox1.Location = new System.Drawing.Point(67, 105);
+            this.groupBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(399, 411);
+            this.groupBox1.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.groupBox1.Size = new System.Drawing.Size(532, 506);
             this.groupBox1.TabIndex = 4;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Fuerza Bruta";
             // 
             // btnLimpiar
             // 
-            this.btnLimpiar.Location = new System.Drawing.Point(47, 347);
+            this.btnLimpiar.Location = new System.Drawing.Point(63, 427);
+            this.btnLimpiar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnLimpiar.Name = "btnLimpiar";
-            this.btnLimpiar.Size = new System.Drawing.Size(75, 23);
+            this.btnLimpiar.Size = new System.Drawing.Size(100, 28);
             this.btnLimpiar.TabIndex = 7;
             this.btnLimpiar.Text = "Limpiar";
             this.btnLimpiar.UseVisualStyleBackColor = true;
@@ -69,33 +75,37 @@
             // 
             // txtResultado
             // 
-            this.txtResultado.Location = new System.Drawing.Point(47, 297);
+            this.txtResultado.Location = new System.Drawing.Point(63, 366);
+            this.txtResultado.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.txtResultado.Name = "txtResultado";
-            this.txtResultado.Size = new System.Drawing.Size(296, 20);
+            this.txtResultado.Size = new System.Drawing.Size(393, 22);
             this.txtResultado.TabIndex = 6;
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(44, 270);
+            this.label2.Location = new System.Drawing.Point(59, 332);
+            this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(58, 13);
+            this.label2.Size = new System.Drawing.Size(72, 16);
             this.label2.TabIndex = 5;
             this.label2.Text = "Resultado:";
             // 
             // richTextBox1
             // 
-            this.richTextBox1.Location = new System.Drawing.Point(44, 145);
+            this.richTextBox1.Location = new System.Drawing.Point(59, 178);
+            this.richTextBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.richTextBox1.Name = "richTextBox1";
-            this.richTextBox1.Size = new System.Drawing.Size(297, 100);
+            this.richTextBox1.Size = new System.Drawing.Size(395, 122);
             this.richTextBox1.TabIndex = 4;
             this.richTextBox1.Text = "";
             // 
             // btnCalcular
             // 
-            this.btnCalcular.Location = new System.Drawing.Point(41, 102);
+            this.btnCalcular.Location = new System.Drawing.Point(55, 126);
+            this.btnCalcular.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnCalcular.Name = "btnCalcular";
-            this.btnCalcular.Size = new System.Drawing.Size(75, 23);
+            this.btnCalcular.Size = new System.Drawing.Size(100, 28);
             this.btnCalcular.TabIndex = 3;
             this.btnCalcular.Text = "Calcular";
             this.btnCalcular.UseVisualStyleBackColor = true;
@@ -103,9 +113,10 @@
             // 
             // btnAgregar
             // 
-            this.btnAgregar.Location = new System.Drawing.Point(248, 64);
+            this.btnAgregar.Location = new System.Drawing.Point(331, 79);
+            this.btnAgregar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnAgregar.Name = "btnAgregar";
-            this.btnAgregar.Size = new System.Drawing.Size(94, 23);
+            this.btnAgregar.Size = new System.Drawing.Size(125, 28);
             this.btnAgregar.TabIndex = 2;
             this.btnAgregar.Text = "Agregar";
             this.btnAgregar.UseVisualStyleBackColor = true;
@@ -113,31 +124,56 @@
             // 
             // txtNumero
             // 
-            this.txtNumero.Location = new System.Drawing.Point(41, 67);
+            this.txtNumero.Location = new System.Drawing.Point(55, 82);
+            this.txtNumero.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.txtNumero.Name = "txtNumero";
-            this.txtNumero.Size = new System.Drawing.Size(167, 20);
+            this.txtNumero.Size = new System.Drawing.Size(221, 22);
             this.txtNumero.TabIndex = 1;
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(38, 48);
+            this.label1.Location = new System.Drawing.Point(51, 59);
+            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(83, 13);
+            this.label1.Size = new System.Drawing.Size(103, 16);
             this.label1.TabIndex = 0;
             this.label1.Text = "Ingrese número:";
             // 
+            // panel1
+            // 
+            this.panel1.BackColor = System.Drawing.Color.DarkOrchid;
+            this.panel1.Controls.Add(this.label3);
+            this.panel1.Location = new System.Drawing.Point(3, 1);
+            this.panel1.Name = "panel1";
+            this.panel1.Size = new System.Drawing.Size(655, 71);
+            this.panel1.TabIndex = 16;
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.Location = new System.Drawing.Point(12, 20);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(136, 25);
+            this.label3.TabIndex = 0;
+            this.label3.Text = "Fuerza Bruta";
+            // 
             // FuerzaBruta
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(446, 450);
+            this.ClientSize = new System.Drawing.Size(656, 642);
+            this.Controls.Add(this.panel1);
             this.Controls.Add(this.groupBox1);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "FuerzaBruta";
             this.Text = "FuerzaBruta";
             this.Activated += new System.EventHandler(this.FuerzaBruta_Activated);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
+            this.panel1.ResumeLayout(false);
+            this.panel1.PerformLayout();
             this.ResumeLayout(false);
 
         }
@@ -153,5 +189,7 @@
         private System.Windows.Forms.Button btnAgregar;
         private System.Windows.Forms.TextBox txtNumero;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Panel panel1;
+        private System.Windows.Forms.Label label3;
     }
 }

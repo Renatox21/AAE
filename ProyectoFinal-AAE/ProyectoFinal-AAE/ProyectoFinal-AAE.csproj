@@ -46,11 +46,23 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Backtracking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Backtracking.Designer.cs">
+      <DependentUpon>Backtracking.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Paralelo con Hilos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Paralelo con Hilos.Designer.cs">
+      <DependentUpon>Paralelo con Hilos.cs</DependentUpon>
     </Compile>
     <Compile Include="FuerzaBruta.cs">
       <SubType>Form</SubType>
@@ -66,8 +78,14 @@
     <Compile Include="Recursividad.Designer.cs">
       <DependentUpon>Recursividad.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="Backtracking.resx">
+      <DependentUpon>Backtracking.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Paralelo con Hilos.resx">
+      <DependentUpon>Paralelo con Hilos.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FuerzaBruta.resx">
       <DependentUpon>FuerzaBruta.cs</DependentUpon>

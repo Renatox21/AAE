@@ -34,3 +34,18 @@ C:\Users\Lenovo\source\repos\TrabjoFinalAlgorit\AAE\ProyectoFinal-AAE\ProyectoFi
 C:\Users\Lenovo\source\repos\TrabjoFinalAlgorit\AAE\ProyectoFinal-AAE\ProyectoFinal-AAE\obj\Debug\ProyectoFinal-AAE.exe
 C:\Users\Lenovo\source\repos\TrabjoFinalAlgorit\AAE\ProyectoFinal-AAE\ProyectoFinal-AAE\obj\Debug\ProyectoFinal-AAE.pdb
 D:\UPN\Ciclo\AE\proyecto\AAE\ProyectoFinal-AAE\ProyectoFinal-AAE\obj\Debug\ProyectoFinal_AAE.FuerzaBruta.resources
+C:\Users\MARCELO\Desktop\AN.DE ALGOR.Y ESTRAT. DE PROG\AAE\ProyectoFinal-AAE\ProyectoFinal-AAE\bin\Debug\ProyectoFinal-AAE.exe.config
+C:\Users\MARCELO\Desktop\AN.DE ALGOR.Y ESTRAT. DE PROG\AAE\ProyectoFinal-AAE\ProyectoFinal-AAE\bin\Debug\ProyectoFinal-AAE.exe
+C:\Users\MARCELO\Desktop\AN.DE ALGOR.Y ESTRAT. DE PROG\AAE\ProyectoFinal-AAE\ProyectoFinal-AAE\bin\Debug\ProyectoFinal-AAE.pdb
+C:\Users\MARCELO\Desktop\AN.DE ALGOR.Y ESTRAT. DE PROG\AAE\ProyectoFinal-AAE\ProyectoFinal-AAE\obj\Debug\ProyectoFinal-AAE.csproj.AssemblyReference.cache
+C:\Users\MARCELO\Desktop\AN.DE ALGOR.Y ESTRAT. DE PROG\AAE\ProyectoFinal-AAE\ProyectoFinal-AAE\obj\Debug\ProyectoFinal-AAE.csproj.SuggestedBindingRedirects.cache
+C:\Users\MARCELO\Desktop\AN.DE ALGOR.Y ESTRAT. DE PROG\AAE\ProyectoFinal-AAE\ProyectoFinal-AAE\obj\Debug\ProyectoFinal_AAE.Form1.resources
+C:\Users\MARCELO\Desktop\AN.DE ALGOR.Y ESTRAT. DE PROG\AAE\ProyectoFinal-AAE\ProyectoFinal-AAE\obj\Debug\ProyectoFinal_AAE.FuerzaBruta.resources
+C:\Users\MARCELO\Desktop\AN.DE ALGOR.Y ESTRAT. DE PROG\AAE\ProyectoFinal-AAE\ProyectoFinal-AAE\obj\Debug\ProyectoFinal_AAE.Properties.Resources.resources
+C:\Users\MARCELO\Desktop\AN.DE ALGOR.Y ESTRAT. DE PROG\AAE\ProyectoFinal-AAE\ProyectoFinal-AAE\obj\Debug\ProyectoFinal_AAE.Recursividad.resources
+C:\Users\MARCELO\Desktop\AN.DE ALGOR.Y ESTRAT. DE PROG\AAE\ProyectoFinal-AAE\ProyectoFinal-AAE\obj\Debug\ProyectoFinal-AAE.csproj.GenerateResource.cache
+C:\Users\MARCELO\Desktop\AN.DE ALGOR.Y ESTRAT. DE PROG\AAE\ProyectoFinal-AAE\ProyectoFinal-AAE\obj\Debug\ProyectoFinal-AAE.csproj.CoreCompileInputs.cache
+C:\Users\MARCELO\Desktop\AN.DE ALGOR.Y ESTRAT. DE PROG\AAE\ProyectoFinal-AAE\ProyectoFinal-AAE\obj\Debug\ProyectoFinal-AAE.exe
+C:\Users\MARCELO\Desktop\AN.DE ALGOR.Y ESTRAT. DE PROG\AAE\ProyectoFinal-AAE\ProyectoFinal-AAE\obj\Debug\ProyectoFinal-AAE.pdb
+C:\Users\MARCELO\Desktop\AN.DE ALGOR.Y ESTRAT. DE PROG\AAE\ProyectoFinal-AAE\ProyectoFinal-AAE\obj\Debug\ProyectoFinal_AAE.Paralelo_Con_Hilos.resources
+C:\Users\MARCELO\Desktop\AN.DE ALGOR.Y ESTRAT. DE PROG\AAE\ProyectoFinal-AAE\ProyectoFinal-AAE\obj\Debug\ProyectoFinal_AAE.Backtracking.resources
