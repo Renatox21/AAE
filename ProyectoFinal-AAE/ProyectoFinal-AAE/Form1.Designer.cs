@@ -33,6 +33,8 @@
             this.recursividadToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.formulario2ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.forToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.busquedaLinealToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.busquedaBinariaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.formulario4ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.formulario5ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.formulario6ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -43,8 +45,6 @@
             this.formulario11ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStripSeparator1 = new System.Windows.Forms.ToolStripSeparator();
             this.salirToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.busquedaLinealToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.busquedaBinariaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -103,6 +103,20 @@
             this.forToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.forToolStripMenuItem.Text = "Divide y Venceras";
             this.forToolStripMenuItem.Click += new System.EventHandler(this.forToolStripMenuItem_Click);
+            // 
+            // busquedaLinealToolStripMenuItem
+            // 
+            this.busquedaLinealToolStripMenuItem.Name = "busquedaLinealToolStripMenuItem";
+            this.busquedaLinealToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.busquedaLinealToolStripMenuItem.Text = "Busqueda Lineal";
+            this.busquedaLinealToolStripMenuItem.Click += new System.EventHandler(this.busquedaLinealToolStripMenuItem_Click);
+            // 
+            // busquedaBinariaToolStripMenuItem
+            // 
+            this.busquedaBinariaToolStripMenuItem.Name = "busquedaBinariaToolStripMenuItem";
+            this.busquedaBinariaToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.busquedaBinariaToolStripMenuItem.Text = "Busqueda Binaria";
+            this.busquedaBinariaToolStripMenuItem.Click += new System.EventHandler(this.busquedaBinariaToolStripMenuItem_Click);
             // 
             // formulario4ToolStripMenuItem
             // 
@@ -166,19 +180,6 @@
             this.salirToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.salirToolStripMenuItem.Text = "Salir";
             this.salirToolStripMenuItem.Click += new System.EventHandler(this.salirToolStripMenuItem_Click);
-            // 
-            // busquedaLinealToolStripMenuItem
-            // 
-            this.busquedaLinealToolStripMenuItem.Name = "busquedaLinealToolStripMenuItem";
-            this.busquedaLinealToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.busquedaLinealToolStripMenuItem.Text = "Busqueda Lineal";
-            this.busquedaLinealToolStripMenuItem.Click += new System.EventHandler(this.busquedaLinealToolStripMenuItem_Click);
-            // 
-            // busquedaBinariaToolStripMenuItem
-            // 
-            this.busquedaBinariaToolStripMenuItem.Name = "busquedaBinariaToolStripMenuItem";
-            this.busquedaBinariaToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.busquedaBinariaToolStripMenuItem.Text = "Busqueda Binaria";
             // 
             // Form1
             // 

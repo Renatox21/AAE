@@ -18,6 +18,7 @@ namespace ProyectoFinal_AAE
         Form backtracking = new Backtracking();
         Form algoritmoVoraz = new AlgoritmoVoraz();
         Form busquedaLineal = new BusquedaLineal();
+        Form busquedaBinaria = new BusquedaBinaria();
 
         public Form1()
         {
@@ -32,6 +33,7 @@ namespace ProyectoFinal_AAE
             backtracking.MdiParent = this;
             algoritmoVoraz.MdiParent = this;
             busquedaLineal.MdiParent = this;
+            busquedaBinaria.MdiParent = this;
         }
 
         private void recursividadToolStripMenuItem_Click(object sender, EventArgs e)
@@ -42,6 +44,7 @@ namespace ProyectoFinal_AAE
             backtracking.Hide();
             algoritmoVoraz.Hide();
             busquedaLineal.Hide();
+            busquedaBinaria.Hide();
         }
 
         private void salirToolStripMenuItem_Click(object sender, EventArgs e)
@@ -57,6 +60,7 @@ namespace ProyectoFinal_AAE
             backtracking.Hide();
             algoritmoVoraz.Show();
             busquedaLineal.Hide();
+            busquedaBinaria.Hide();
         }
 
         private void formulario11ToolStripMenuItem_Click(object sender, EventArgs e)
@@ -67,6 +71,7 @@ namespace ProyectoFinal_AAE
             backtracking.Hide();
             algoritmoVoraz.Hide();
             busquedaLineal.Hide();
+            busquedaBinaria.Hide();
         }
 
         private void formulario7ToolStripMenuItem_Click(object sender, EventArgs e)
@@ -77,6 +82,7 @@ namespace ProyectoFinal_AAE
             backtracking.Show();
             algoritmoVoraz.Hide();
             busquedaLineal.Hide();
+            busquedaBinaria.Hide();
         }
 
         private void forToolStripMenuItem_Click(object sender, EventArgs e)
@@ -92,6 +98,7 @@ namespace ProyectoFinal_AAE
             backtracking.Hide();
             algoritmoVoraz.Hide();
             busquedaLineal.Hide();
+            busquedaBinaria.Hide();
         }
 
         private void busquedaLinealToolStripMenuItem_Click(object sender, EventArgs e)
@@ -102,6 +109,18 @@ namespace ProyectoFinal_AAE
             backtracking.Hide();
             algoritmoVoraz.Hide();
             busquedaLineal.Show();
+            busquedaBinaria.Hide();
+        }
+
+        private void busquedaBinariaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            recursividad.Hide();
+            fuerzaBruta.Hide();
+            paralelo_Con_Hilos.Hide();
+            backtracking.Hide();
+            algoritmoVoraz.Hide();
+            busquedaLineal.Hide();
+            busquedaBinaria.Show();
         }
     }
 }

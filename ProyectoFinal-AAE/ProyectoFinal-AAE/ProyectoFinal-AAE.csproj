@@ -58,6 +58,12 @@
     <Compile Include="Backtracking.Designer.cs">
       <DependentUpon>Backtracking.cs</DependentUpon>
     </Compile>
+    <Compile Include="BusquedaBinaria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BusquedaBinaria.Designer.cs">
+      <DependentUpon>BusquedaBinaria.cs</DependentUpon>
+    </Compile>
     <Compile Include="BusquedaLineal.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -96,6 +102,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Backtracking.resx">
       <DependentUpon>Backtracking.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BusquedaBinaria.resx">
+      <DependentUpon>BusquedaBinaria.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="BusquedaLineal.resx">
       <DependentUpon>BusquedaLineal.cs</DependentUpon>
