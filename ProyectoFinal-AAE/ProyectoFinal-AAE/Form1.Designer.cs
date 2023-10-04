@@ -43,6 +43,8 @@
             this.formulario11ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStripSeparator1 = new System.Windows.Forms.ToolStripSeparator();
             this.salirToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.busquedaLinealToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.busquedaBinariaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -94,16 +96,20 @@
             // 
             // forToolStripMenuItem
             // 
+            this.forToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.busquedaLinealToolStripMenuItem,
+            this.busquedaBinariaToolStripMenuItem});
             this.forToolStripMenuItem.Name = "forToolStripMenuItem";
             this.forToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.forToolStripMenuItem.Text = "Recursividad";
+            this.forToolStripMenuItem.Text = "Divide y Venceras";
             this.forToolStripMenuItem.Click += new System.EventHandler(this.forToolStripMenuItem_Click);
             // 
             // formulario4ToolStripMenuItem
             // 
             this.formulario4ToolStripMenuItem.Name = "formulario4ToolStripMenuItem";
             this.formulario4ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.formulario4ToolStripMenuItem.Text = "Formulario 4";
+            this.formulario4ToolStripMenuItem.Text = "Recursividad";
+            this.formulario4ToolStripMenuItem.Click += new System.EventHandler(this.formulario4ToolStripMenuItem_Click);
             // 
             // formulario5ToolStripMenuItem
             // 
@@ -161,6 +167,19 @@
             this.salirToolStripMenuItem.Text = "Salir";
             this.salirToolStripMenuItem.Click += new System.EventHandler(this.salirToolStripMenuItem_Click);
             // 
+            // busquedaLinealToolStripMenuItem
+            // 
+            this.busquedaLinealToolStripMenuItem.Name = "busquedaLinealToolStripMenuItem";
+            this.busquedaLinealToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.busquedaLinealToolStripMenuItem.Text = "Busqueda Lineal";
+            this.busquedaLinealToolStripMenuItem.Click += new System.EventHandler(this.busquedaLinealToolStripMenuItem_Click);
+            // 
+            // busquedaBinariaToolStripMenuItem
+            // 
+            this.busquedaBinariaToolStripMenuItem.Name = "busquedaBinariaToolStripMenuItem";
+            this.busquedaBinariaToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.busquedaBinariaToolStripMenuItem.Text = "Busqueda Binaria";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -197,6 +216,8 @@
         private System.Windows.Forms.ToolStripMenuItem formulario11ToolStripMenuItem;
         private System.Windows.Forms.ToolStripSeparator toolStripSeparator1;
         private System.Windows.Forms.ToolStripMenuItem salirToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem busquedaLinealToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem busquedaBinariaToolStripMenuItem;
     }
 }
 
