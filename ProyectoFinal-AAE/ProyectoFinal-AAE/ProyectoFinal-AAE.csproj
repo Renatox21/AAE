@@ -46,12 +46,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AlgoritmoVoraz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AlgoritmoVoraz.Designer.cs">
+      <DependentUpon>AlgoritmoVoraz.cs</DependentUpon>
+    </Compile>
     <Compile Include="Backtracking.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Backtracking.Designer.cs">
       <DependentUpon>Backtracking.cs</DependentUpon>
     </Compile>
+    <Compile Include="Class\Contabilidad.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -78,6 +85,9 @@
     <Compile Include="Recursividad.Designer.cs">
       <DependentUpon>Recursividad.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="AlgoritmoVoraz.resx">
+      <DependentUpon>AlgoritmoVoraz.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Backtracking.resx">
       <DependentUpon>Backtracking.cs</DependentUpon>
     </EmbeddedResource>

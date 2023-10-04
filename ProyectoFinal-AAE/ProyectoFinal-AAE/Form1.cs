@@ -16,6 +16,8 @@ namespace ProyectoFinal_AAE
         Form fuerzaBruta = new FuerzaBruta();
         Form paralelo_Con_Hilos = new Paralelo_Con_Hilos();
         Form backtracking = new Backtracking();
+        Form algoritmoVoraz = new AlgoritmoVoraz();
+
         public Form1()
         {
             InitializeComponent();
@@ -27,6 +29,7 @@ namespace ProyectoFinal_AAE
             fuerzaBruta.MdiParent = this;
             paralelo_Con_Hilos.MdiParent = this;
             backtracking.MdiParent = this;
+            algoritmoVoraz.MdiParent = this;
         }
 
         private void recursividadToolStripMenuItem_Click(object sender, EventArgs e)
@@ -35,6 +38,7 @@ namespace ProyectoFinal_AAE
             fuerzaBruta.Show();
             paralelo_Con_Hilos.Hide();
             backtracking.Hide();
+            algoritmoVoraz.Hide();
         }
 
         private void salirToolStripMenuItem_Click(object sender, EventArgs e)
@@ -44,10 +48,11 @@ namespace ProyectoFinal_AAE
 
         private void formulario2ToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            recursividad.Show();
+            recursividad.Hide();
             fuerzaBruta.Hide();
             paralelo_Con_Hilos.Hide();
             backtracking.Hide();
+            algoritmoVoraz.Show();
         }
 
         private void formulario11ToolStripMenuItem_Click(object sender, EventArgs e)
@@ -56,6 +61,7 @@ namespace ProyectoFinal_AAE
             fuerzaBruta.Hide();
             paralelo_Con_Hilos.Show();
             backtracking.Hide();
+            algoritmoVoraz.Hide();
         }
 
         private void formulario7ToolStripMenuItem_Click(object sender, EventArgs e)
@@ -64,6 +70,16 @@ namespace ProyectoFinal_AAE
             fuerzaBruta.Hide();
             paralelo_Con_Hilos.Hide();
             backtracking.Show();
+            algoritmoVoraz.Hide();
+        }
+
+        private void forToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            recursividad.Show();
+            fuerzaBruta.Hide();
+            paralelo_Con_Hilos.Hide();
+            backtracking.Hide();
+            algoritmoVoraz.Hide();
         }
     }
 }

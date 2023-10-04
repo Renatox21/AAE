@@ -49,3 +49,6 @@ C:\Users\MARCELO\Desktop\AN.DE ALGOR.Y ESTRAT. DE PROG\AAE\ProyectoFinal-AAE\Pro
 C:\Users\MARCELO\Desktop\AN.DE ALGOR.Y ESTRAT. DE PROG\AAE\ProyectoFinal-AAE\ProyectoFinal-AAE\obj\Debug\ProyectoFinal-AAE.pdb
 C:\Users\MARCELO\Desktop\AN.DE ALGOR.Y ESTRAT. DE PROG\AAE\ProyectoFinal-AAE\ProyectoFinal-AAE\obj\Debug\ProyectoFinal_AAE.Paralelo_Con_Hilos.resources
 C:\Users\MARCELO\Desktop\AN.DE ALGOR.Y ESTRAT. DE PROG\AAE\ProyectoFinal-AAE\ProyectoFinal-AAE\obj\Debug\ProyectoFinal_AAE.Backtracking.resources
+D:\UPN\Ciclo\AE\proyecto\AAE\ProyectoFinal-AAE\ProyectoFinal-AAE\obj\Debug\ProyectoFinal_AAE.AlgoritmoVoraz.resources
+D:\UPN\Ciclo\AE\proyecto\AAE\ProyectoFinal-AAE\ProyectoFinal-AAE\obj\Debug\ProyectoFinal_AAE.Backtracking.resources
+D:\UPN\Ciclo\AE\proyecto\AAE\ProyectoFinal-AAE\ProyectoFinal-AAE\obj\Debug\ProyectoFinal_AAE.Paralelo_Con_Hilos.resources
