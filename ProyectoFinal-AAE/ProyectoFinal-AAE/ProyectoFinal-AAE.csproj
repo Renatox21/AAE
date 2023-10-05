@@ -90,6 +90,12 @@
       <DependentUpon>FuerzaBruta.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
+    <Compile Include="ProgramacionDinamica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProgramacionDinamica.Designer.cs">
+      <DependentUpon>ProgramacionDinamica.cs</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Recursividad.cs">
       <SubType>Form</SubType>
@@ -117,6 +123,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FuerzaBruta.resx">
       <DependentUpon>FuerzaBruta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProgramacionDinamica.resx">
+      <DependentUpon>ProgramacionDinamica.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

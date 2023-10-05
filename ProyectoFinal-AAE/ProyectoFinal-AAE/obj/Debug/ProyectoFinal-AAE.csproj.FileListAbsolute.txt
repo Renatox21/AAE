@@ -54,3 +54,9 @@ D:\UPN\Ciclo\AE\proyecto\AAE\ProyectoFinal-AAE\ProyectoFinal-AAE\obj\Debug\Proye
 D:\UPN\Ciclo\AE\proyecto\AAE\ProyectoFinal-AAE\ProyectoFinal-AAE\obj\Debug\ProyectoFinal_AAE.Paralelo_Con_Hilos.resources
 D:\UPN\Ciclo\AE\proyecto\AAE\ProyectoFinal-AAE\ProyectoFinal-AAE\obj\Debug\ProyectoFinal_AAE.BusquedaLineal.resources
 D:\UPN\Ciclo\AE\proyecto\AAE\ProyectoFinal-AAE\ProyectoFinal-AAE\obj\Debug\ProyectoFinal_AAE.BusquedaBinaria.resources
+C:\Users\Lenovo\source\repos\TrabjoFinalAlgorit\AAE\ProyectoFinal-AAE\ProyectoFinal-AAE\obj\Debug\ProyectoFinal_AAE.AlgoritmoVoraz.resources
+C:\Users\Lenovo\source\repos\TrabjoFinalAlgorit\AAE\ProyectoFinal-AAE\ProyectoFinal-AAE\obj\Debug\ProyectoFinal_AAE.Backtracking.resources
+C:\Users\Lenovo\source\repos\TrabjoFinalAlgorit\AAE\ProyectoFinal-AAE\ProyectoFinal-AAE\obj\Debug\ProyectoFinal_AAE.BusquedaBinaria.resources
+C:\Users\Lenovo\source\repos\TrabjoFinalAlgorit\AAE\ProyectoFinal-AAE\ProyectoFinal-AAE\obj\Debug\ProyectoFinal_AAE.BusquedaLineal.resources
+C:\Users\Lenovo\source\repos\TrabjoFinalAlgorit\AAE\ProyectoFinal-AAE\ProyectoFinal-AAE\obj\Debug\ProyectoFinal_AAE.Paralelo_Con_Hilos.resources
+C:\Users\Lenovo\source\repos\TrabjoFinalAlgorit\AAE\ProyectoFinal-AAE\ProyectoFinal-AAE\obj\Debug\ProyectoFinal_AAE.ProgramacionDinamica.resources

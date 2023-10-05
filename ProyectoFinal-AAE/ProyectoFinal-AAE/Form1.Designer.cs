@@ -79,18 +79,19 @@
             this.formulariosToolStripMenuItem.Name = "formulariosToolStripMenuItem";
             this.formulariosToolStripMenuItem.Size = new System.Drawing.Size(77, 20);
             this.formulariosToolStripMenuItem.Text = "Formulario";
+            this.formulariosToolStripMenuItem.Click += new System.EventHandler(this.formulariosToolStripMenuItem_Click);
             // 
             // recursividadToolStripMenuItem
             // 
             this.recursividadToolStripMenuItem.Name = "recursividadToolStripMenuItem";
-            this.recursividadToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.recursividadToolStripMenuItem.Size = new System.Drawing.Size(199, 22);
             this.recursividadToolStripMenuItem.Text = "Fuerza Bruta";
             this.recursividadToolStripMenuItem.Click += new System.EventHandler(this.recursividadToolStripMenuItem_Click);
             // 
             // formulario2ToolStripMenuItem
             // 
             this.formulario2ToolStripMenuItem.Name = "formulario2ToolStripMenuItem";
-            this.formulario2ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.formulario2ToolStripMenuItem.Size = new System.Drawing.Size(199, 22);
             this.formulario2ToolStripMenuItem.Text = "Algoritmo Voraz";
             this.formulario2ToolStripMenuItem.Click += new System.EventHandler(this.formulario2ToolStripMenuItem_Click);
             // 
@@ -100,84 +101,85 @@
             this.busquedaLinealToolStripMenuItem,
             this.busquedaBinariaToolStripMenuItem});
             this.forToolStripMenuItem.Name = "forToolStripMenuItem";
-            this.forToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.forToolStripMenuItem.Size = new System.Drawing.Size(199, 22);
             this.forToolStripMenuItem.Text = "Divide y Venceras";
             this.forToolStripMenuItem.Click += new System.EventHandler(this.forToolStripMenuItem_Click);
             // 
             // busquedaLinealToolStripMenuItem
             // 
             this.busquedaLinealToolStripMenuItem.Name = "busquedaLinealToolStripMenuItem";
-            this.busquedaLinealToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.busquedaLinealToolStripMenuItem.Size = new System.Drawing.Size(165, 22);
             this.busquedaLinealToolStripMenuItem.Text = "Busqueda Lineal";
             this.busquedaLinealToolStripMenuItem.Click += new System.EventHandler(this.busquedaLinealToolStripMenuItem_Click);
             // 
             // busquedaBinariaToolStripMenuItem
             // 
             this.busquedaBinariaToolStripMenuItem.Name = "busquedaBinariaToolStripMenuItem";
-            this.busquedaBinariaToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.busquedaBinariaToolStripMenuItem.Size = new System.Drawing.Size(165, 22);
             this.busquedaBinariaToolStripMenuItem.Text = "Busqueda Binaria";
             this.busquedaBinariaToolStripMenuItem.Click += new System.EventHandler(this.busquedaBinariaToolStripMenuItem_Click);
             // 
             // formulario4ToolStripMenuItem
             // 
             this.formulario4ToolStripMenuItem.Name = "formulario4ToolStripMenuItem";
-            this.formulario4ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.formulario4ToolStripMenuItem.Size = new System.Drawing.Size(199, 22);
             this.formulario4ToolStripMenuItem.Text = "Recursividad";
             this.formulario4ToolStripMenuItem.Click += new System.EventHandler(this.formulario4ToolStripMenuItem_Click);
             // 
             // formulario5ToolStripMenuItem
             // 
             this.formulario5ToolStripMenuItem.Name = "formulario5ToolStripMenuItem";
-            this.formulario5ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.formulario5ToolStripMenuItem.Size = new System.Drawing.Size(199, 22);
             this.formulario5ToolStripMenuItem.Text = "Formulario 5";
             // 
             // formulario6ToolStripMenuItem
             // 
             this.formulario6ToolStripMenuItem.Name = "formulario6ToolStripMenuItem";
-            this.formulario6ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.formulario6ToolStripMenuItem.Size = new System.Drawing.Size(199, 22);
             this.formulario6ToolStripMenuItem.Text = "Formulario 6";
             // 
             // formulario7ToolStripMenuItem
             // 
             this.formulario7ToolStripMenuItem.Name = "formulario7ToolStripMenuItem";
-            this.formulario7ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.formulario7ToolStripMenuItem.Size = new System.Drawing.Size(199, 22);
             this.formulario7ToolStripMenuItem.Text = " Backtracking";
             this.formulario7ToolStripMenuItem.Click += new System.EventHandler(this.formulario7ToolStripMenuItem_Click);
             // 
             // formulario8ToolStripMenuItem
             // 
             this.formulario8ToolStripMenuItem.Name = "formulario8ToolStripMenuItem";
-            this.formulario8ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.formulario8ToolStripMenuItem.Text = "Formulario 8";
+            this.formulario8ToolStripMenuItem.Size = new System.Drawing.Size(199, 22);
+            this.formulario8ToolStripMenuItem.Text = "ProgramacionDinamica";
+            this.formulario8ToolStripMenuItem.Click += new System.EventHandler(this.formulario8ToolStripMenuItem_Click);
             // 
             // formulario9ToolStripMenuItem
             // 
             this.formulario9ToolStripMenuItem.Name = "formulario9ToolStripMenuItem";
-            this.formulario9ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.formulario9ToolStripMenuItem.Size = new System.Drawing.Size(199, 22);
             this.formulario9ToolStripMenuItem.Text = "Formulario 9";
             // 
             // formulario10ToolStripMenuItem
             // 
             this.formulario10ToolStripMenuItem.Name = "formulario10ToolStripMenuItem";
-            this.formulario10ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.formulario10ToolStripMenuItem.Size = new System.Drawing.Size(199, 22);
             this.formulario10ToolStripMenuItem.Text = "Formulario 10";
             // 
             // formulario11ToolStripMenuItem
             // 
             this.formulario11ToolStripMenuItem.Name = "formulario11ToolStripMenuItem";
-            this.formulario11ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.formulario11ToolStripMenuItem.Size = new System.Drawing.Size(199, 22);
             this.formulario11ToolStripMenuItem.Text = "Paralelo con Hilos";
             this.formulario11ToolStripMenuItem.Click += new System.EventHandler(this.formulario11ToolStripMenuItem_Click);
             // 
             // toolStripSeparator1
             // 
             this.toolStripSeparator1.Name = "toolStripSeparator1";
-            this.toolStripSeparator1.Size = new System.Drawing.Size(177, 6);
+            this.toolStripSeparator1.Size = new System.Drawing.Size(196, 6);
             // 
             // salirToolStripMenuItem
             // 
             this.salirToolStripMenuItem.Name = "salirToolStripMenuItem";
-            this.salirToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.salirToolStripMenuItem.Size = new System.Drawing.Size(199, 22);
             this.salirToolStripMenuItem.Text = "Salir";
             this.salirToolStripMenuItem.Click += new System.EventHandler(this.salirToolStripMenuItem_Click);
             // 
