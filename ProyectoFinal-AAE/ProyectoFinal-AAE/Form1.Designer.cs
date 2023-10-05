@@ -36,12 +36,8 @@
             this.busquedaLinealToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.busquedaBinariaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.formulario4ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.formulario5ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.formulario6ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.formulario7ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.formulario8ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.formulario9ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.formulario10ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.formulario11ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStripSeparator1 = new System.Windows.Forms.ToolStripSeparator();
             this.salirToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -67,12 +63,8 @@
             this.formulario2ToolStripMenuItem,
             this.forToolStripMenuItem,
             this.formulario4ToolStripMenuItem,
-            this.formulario5ToolStripMenuItem,
-            this.formulario6ToolStripMenuItem,
             this.formulario7ToolStripMenuItem,
             this.formulario8ToolStripMenuItem,
-            this.formulario9ToolStripMenuItem,
-            this.formulario10ToolStripMenuItem,
             this.formulario11ToolStripMenuItem,
             this.toolStripSeparator1,
             this.salirToolStripMenuItem});
@@ -126,18 +118,6 @@
             this.formulario4ToolStripMenuItem.Text = "Recursividad";
             this.formulario4ToolStripMenuItem.Click += new System.EventHandler(this.formulario4ToolStripMenuItem_Click);
             // 
-            // formulario5ToolStripMenuItem
-            // 
-            this.formulario5ToolStripMenuItem.Name = "formulario5ToolStripMenuItem";
-            this.formulario5ToolStripMenuItem.Size = new System.Drawing.Size(199, 22);
-            this.formulario5ToolStripMenuItem.Text = "Formulario 5";
-            // 
-            // formulario6ToolStripMenuItem
-            // 
-            this.formulario6ToolStripMenuItem.Name = "formulario6ToolStripMenuItem";
-            this.formulario6ToolStripMenuItem.Size = new System.Drawing.Size(199, 22);
-            this.formulario6ToolStripMenuItem.Text = "Formulario 6";
-            // 
             // formulario7ToolStripMenuItem
             // 
             this.formulario7ToolStripMenuItem.Name = "formulario7ToolStripMenuItem";
@@ -151,18 +131,6 @@
             this.formulario8ToolStripMenuItem.Size = new System.Drawing.Size(199, 22);
             this.formulario8ToolStripMenuItem.Text = "ProgramacionDinamica";
             this.formulario8ToolStripMenuItem.Click += new System.EventHandler(this.formulario8ToolStripMenuItem_Click);
-            // 
-            // formulario9ToolStripMenuItem
-            // 
-            this.formulario9ToolStripMenuItem.Name = "formulario9ToolStripMenuItem";
-            this.formulario9ToolStripMenuItem.Size = new System.Drawing.Size(199, 22);
-            this.formulario9ToolStripMenuItem.Text = "Formulario 9";
-            // 
-            // formulario10ToolStripMenuItem
-            // 
-            this.formulario10ToolStripMenuItem.Name = "formulario10ToolStripMenuItem";
-            this.formulario10ToolStripMenuItem.Size = new System.Drawing.Size(199, 22);
-            this.formulario10ToolStripMenuItem.Text = "Formulario 10";
             // 
             // formulario11ToolStripMenuItem
             // 
@@ -210,12 +178,8 @@
         private System.Windows.Forms.ToolStripMenuItem formulario2ToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem forToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem formulario4ToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem formulario5ToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem formulario6ToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem formulario7ToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem formulario8ToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem formulario9ToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem formulario10ToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem formulario11ToolStripMenuItem;
         private System.Windows.Forms.ToolStripSeparator toolStripSeparator1;
         private System.Windows.Forms.ToolStripMenuItem salirToolStripMenuItem;
