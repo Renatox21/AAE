@@ -35,7 +35,7 @@ namespace ProyectoFinal_AAE
             algoritmoVoraz.MdiParent = this;
             busquedaLineal.MdiParent = this;
             busquedaBinaria.MdiParent = this;
-            ProgramacionDinamica = this;
+            ProgramacionDinamica.MdiParent = this;
         }
 
         private void recursividadToolStripMenuItem_Click(object sender, EventArgs e)
@@ -142,7 +142,6 @@ namespace ProyectoFinal_AAE
             algoritmoVoraz.Hide();
             busquedaLineal.Hide();
             busquedaBinaria.Hide();
-            ProgramacionDinamica.Hide();
         }
 
         private void formulariosToolStripMenuItem_Click(object sender, EventArgs e)
