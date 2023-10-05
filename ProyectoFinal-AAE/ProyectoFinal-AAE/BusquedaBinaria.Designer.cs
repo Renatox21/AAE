@@ -59,9 +59,9 @@
             this.label4.Location = new System.Drawing.Point(9, 16);
             this.label4.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(143, 20);
+            this.label4.Size = new System.Drawing.Size(151, 20);
             this.label4.TabIndex = 0;
-            this.label4.Text = "Busqueda Lineal";
+            this.label4.Text = "Busqueda Binaria";
             // 
             // label1
             // 
