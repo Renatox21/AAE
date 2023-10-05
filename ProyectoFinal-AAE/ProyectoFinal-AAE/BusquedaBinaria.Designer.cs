@@ -129,16 +129,16 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(120, 156);
+            this.label3.Location = new System.Drawing.Point(120, 163);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(69, 26);
+            this.label3.Size = new System.Drawing.Size(65, 13);
             this.label3.TabIndex = 26;
-            this.label3.Text = "Elemento en \r\nel indice:\r\n";
+            this.label3.Text = "Ubicado en:";
             // 
             // lblIndice
             // 
             this.lblIndice.AutoSize = true;
-            this.lblIndice.Location = new System.Drawing.Point(126, 194);
+            this.lblIndice.Location = new System.Drawing.Point(120, 186);
             this.lblIndice.Name = "lblIndice";
             this.lblIndice.Size = new System.Drawing.Size(0, 13);
             this.lblIndice.TabIndex = 27;
@@ -161,6 +161,7 @@
             this.Name = "BusquedaBinaria";
             this.Text = "BusquedaBinaria";
             this.Activated += new System.EventHandler(this.BusquedaBinaria_Activated);
+            this.Load += new System.EventHandler(this.BusquedaBinaria_Load);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
             this.ResumeLayout(false);

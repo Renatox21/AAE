@@ -86,9 +86,9 @@
             // listBoxSalida
             // 
             this.listBoxSalida.FormattingEnabled = true;
-            this.listBoxSalida.Location = new System.Drawing.Point(53, 211);
+            this.listBoxSalida.Location = new System.Drawing.Point(15, 211);
             this.listBoxSalida.Name = "listBoxSalida";
-            this.listBoxSalida.Size = new System.Drawing.Size(156, 225);
+            this.listBoxSalida.Size = new System.Drawing.Size(240, 225);
             this.listBoxSalida.TabIndex = 5;
             // 
             // button1
@@ -116,7 +116,7 @@
             this.panel1.BackColor = System.Drawing.Color.DarkOrchid;
             this.panel1.Controls.Add(this.label4);
             this.panel1.Location = new System.Drawing.Point(2, 1);
-            this.panel1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.panel1.Margin = new System.Windows.Forms.Padding(2);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(264, 58);
             this.panel1.TabIndex = 16;

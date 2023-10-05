@@ -113,5 +113,10 @@ namespace ProyectoFinal_AAE
                 lblIndice.Text = "Indice: " + indice;
 
         }
+
+        private void BusquedaBinaria_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
